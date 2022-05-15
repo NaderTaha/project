@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1651981338 source:c:\users\nader\desktop\amit project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
+1651981863 c:\users\nader\desktop\amit project\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
+1651980896 source:c:\users\nader\desktop\amit project\source.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"header.h"
+
