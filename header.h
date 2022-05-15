@@ -7,7 +7,7 @@
 #include <string.h>
 #define uint8 unsigned char
 #define size 10
-#include "header.h"
+
 
 uint8 id[size] ;
 uint8 top;
